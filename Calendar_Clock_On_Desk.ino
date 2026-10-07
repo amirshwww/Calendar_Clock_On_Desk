@@ -12,8 +12,8 @@
 
 // ================= SETTINGS =================
 
-const char* ssid = "Amir";
-const char* password = "amirshwww@09305415745";
+const char* ssid = "user";
+const char* password = "pass";
 
 const char* navasanToken =
   "freeIFnMe5aIPY68oTy5aRgcVA2d8cLP";
