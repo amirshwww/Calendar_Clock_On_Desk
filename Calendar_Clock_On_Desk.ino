@@ -10,8 +10,8 @@
 // =====================================================
 // WiFi Settings (نام و رمز وای‌فای خود را وارد کنید)
 // =====================================================
-const char* ssid     = "Amir";
-const char* password = "amirshwww@09305415745";
+const char* ssid     = "WIFI ID";
+const char* password = "PASS";
 
 // =====================================================
 // OLED & TOUCH HARDWARE
